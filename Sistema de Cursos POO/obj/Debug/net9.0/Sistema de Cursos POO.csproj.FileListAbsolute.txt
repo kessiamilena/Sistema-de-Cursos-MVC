@@ -1,0 +1,15 @@
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\Sistema de Cursos POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\Sistema de Cursos POO.AssemblyInfoInputs.cache
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\Sistema de Cursos POO.AssemblyInfo.cs
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\Sistema de Cursos POO.csproj.CoreCompileInputs.cache
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\Sistema de Cursos POO.sourcelink.json
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\bin\Debug\net9.0\Sistema de Cursos POO.exe
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\bin\Debug\net9.0\Sistema de Cursos POO.deps.json
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\bin\Debug\net9.0\Sistema de Cursos POO.runtimeconfig.json
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\bin\Debug\net9.0\Sistema de Cursos POO.dll
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\bin\Debug\net9.0\Sistema de Cursos POO.pdb
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\Sistema de Cursos POO.dll
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\refint\Sistema de Cursos POO.dll
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\Sistema de Cursos POO.pdb
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\Sistema de Cursos POO.genruntimeconfig.cache
+C:\Users\Senaisp\Desktop\kessia\Aulas Técnico\Dev 2 Sem - 2025\Programação Back-End (MVC)\MVC\Aula 01 - MVC\Sistema de Cursos\Sistema de Cursos POO\obj\Debug\net9.0\ref\Sistema de Cursos POO.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G0T2cVo3rGw=",
+  "dgSpecHash": "Oydd/VvyVo0=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Senaisp\\Desktop\\Sistema de Cursos\\Sitema de Cursos MVC\\Sitema de Cursos MVC.csproj",
+  "projectFilePath": "C:\\Users\\Senaisp\\Desktop\\Sistema de Cursos\\Sitema de Cursos MVC\\Sitema de Cursos MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Senaisp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Senaisp\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
